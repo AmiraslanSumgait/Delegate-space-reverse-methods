@@ -1,0 +1,16 @@
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\Delegate string space methods.exe
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\Delegate string space methods.deps.json
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\Delegate string space methods.runtimeconfig.json
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\Delegate string space methods.runtimeconfig.dev.json
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\Delegate string space methods.dll
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\ref\Delegate string space methods.dll
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\bin\Debug\net5.0\Delegate string space methods.pdb
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.AssemblyInfoInputs.cache
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.AssemblyInfo.cs
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.dll
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\ref\Delegate string space methods.dll
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.pdb
+C:\Users\Amiraslan\source\repos\Delegate string space methods\Delegate string space methods\obj\Debug\net5.0\Delegate string space methods.genruntimeconfig.cache
